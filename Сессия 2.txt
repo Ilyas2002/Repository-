@@ -1,0 +1,17 @@
+1) Создаем проект библиотека классов, (fremwork) c#
+
+2) Название проекта WSUniveralLib
+
+3) Класс нужно переминовать на Calculation
+
+4) вставляешь код
+
+5) заливаешь в git
+
+git add .
+
+git commit -m "add_class"
+
+git checkout -b vetka
+
+git push -u origin
